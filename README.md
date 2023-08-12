@@ -19,3 +19,6 @@ In my view those results indicate that the noise in high frequency signal receiv
 * Plugging it directly to a host socket, or
 * Using a quality extension cable (as short as possible) if you really need it.
 
+## dkms
+This fork is for my personal use of dkms. Many Thanks for @nothingstopsme!!!! Only Tested in Debian 12, so other distro may need edting dkms/dkms-init.sh (such as `update-initramfs -u`)
+
